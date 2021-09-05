@@ -8,9 +8,11 @@
 1. MinMaxScaler
  
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+
 2. StandardScaler
  
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+
 3. RobustScaler
  
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html
@@ -24,7 +26,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustSc
 
 # Standardisation
 
-![how-to-use-the-standardize-function-in-excel](https://user-images.githubusercontent.com/84494071/132119197-31344d7d-d50f-4439-a973-4c8e8ce10a32.png)
+![1_M3fNcpf2mjpeVsersdQMYA](https://user-images.githubusercontent.com/84494071/132119930-f06cd052-d423-42b3-a07b-1cc9e3788763.png)
 
 - Standardisation or z score normalization is another scaling techniques where the values are centered around the mean with a unit standard diviation.
 
@@ -38,4 +40,6 @@ X_scaled = (X - X.median) / IQR
 ![Selerity-Robust-scaler](https://user-images.githubusercontent.com/84494071/132119761-e0f78143-8107-43bf-abac-ea6f6f27202c.png)
 
 # Implementation with python:
+
+Click here:-  https://github.com/Jyotiranjan404/Types-Of-Feature-Transformation/blob/main/Scaling%20Techniques.ipynb
 
